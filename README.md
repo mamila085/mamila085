@@ -2,7 +2,7 @@
   <img src="https://your-3d-gif-or-image-link.gif" alt="3D Animated Ethiopia Vibes" width="500"/>
 </p>
 
-# 🇪🇹 ሰላም! እኔ [ስምህ] ነኝ
+# 🇪🇹 ሰላም! እኔ [mamila085] ነኝ
 
 <p align="center">
   <em>ኮዲንግ | ኢትዮጵያዊ ቫይብ | ፈጠራ እና ባህል</em>
@@ -13,7 +13,7 @@
 ## 🎯 ስለ እኔ
 - 💻 የቫይብ ኮዲንግ ተማሪ
 - 🌍 ኢትዮጵያዊ ባህልን እና ፈጠራን እወዳለሁ
-- 🚀 በ[ምሳሌ፡ Python, JavaScript, HTML] ላይ እሰራለሁ
+- 🚀 በ[ምሳሌ፡ Python, JavaScript, HTML,Git,Forex,] ላይ እሰራለሁ
 
 ## 🛠 ችሎታዎቼ
 <p align="center">
@@ -30,8 +30,8 @@
 
 ## 📬 አግኝኝ
 <p align="center">
-  <a href="https://x.com/your-username"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://x.com/your-@hailmariam60935"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:your-hailmariamgashaw@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
