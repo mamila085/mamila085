@@ -1,9 +1,8 @@
 ### 👋 Hello! I am Mamila.
 
-## 🚀 About Me
-
+## 🌟 About Me
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajh6eDQ3bDJtZ3FlZ3l0dmR0eHBoeXdkd29uazU0Z3hhZHpneG0zMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2XgS040N04Fw0u9pD/giphy.gif" alt="vibe coding" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Vibe Coding" />
 </p>
 
 <p>
