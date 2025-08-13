@@ -1,12 +1,10 @@
 ### 👋 Hello! I am Mamila.
 
-<p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWk3eWwzNnB4a2V2cGc3Z2R6ajFmdWdzZ3F1eDBwdGZqYm02aWVwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33giPDo9Ea7s4/giphy.gif" alt="Coding GIF" width="100%"/>
+## 🚀 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajh6eDQ3bDJtZ3FlZ3l0dmR0eHBoeXdkd29uazU0Z3hhZHpneG0zMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2XgS040N04Fw0u9pD/giphy.gif" alt="vibe coding" width="400"/>
 </p>
-
----
-
-### 🚀 About Me
 
 <p>
   I'm a Computer Science student with a strong passion for web development and mobile app development. I enjoy learning new things and solving challenging problems through code.
